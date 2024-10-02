@@ -25,7 +25,7 @@ th{
     cursor: pointer;
 }
 
-.header :hover{
+.header:hover{
     background-color:deepskyblue;
 }
 
