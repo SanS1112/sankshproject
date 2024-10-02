@@ -23,8 +23,10 @@ th{
     padding-bottom: 1rem;
     border:none;
     cursor: pointer;
-    
-    
+}
+
+.header :hover{
+    background-color:deepskyblue;
 }
 
 div{
